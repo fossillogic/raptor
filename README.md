@@ -1,4 +1,4 @@
-🦖 #Raptor Tool
+🦖 # *Raptor Tool*
 
 Raptor is a lightning-fast, all-in-one command-line tool for networking, diagnostics, and security auditing. Built for system administrators, DevOps engineers, and terminal power users, Raptor centralizes everything you need to inspect, test, and secure your network.
 
@@ -8,7 +8,7 @@ With smart commands, layered sub-flags, and a modular structure, Raptor streamli
 
 ⸻
 
-🔧 Global Flags
+🔧 ## Global Flags
 
 | **Flag**           | **Description**                             |
 |--------------------|---------------------------------------------|
@@ -18,7 +18,7 @@ With smart commands, layered sub-flags, and a modular structure, Raptor streamli
 
 ⸻
 
-🧪 Commands
+🧪 ## Commands
 
 | **Command**       | **Flags**                                                                 | **Description**                                                                 |
 |-------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------|
