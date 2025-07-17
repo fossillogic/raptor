@@ -8,7 +8,7 @@ With smart commands, layered sub-flags, and a modular structure, Raptor streamli
 
 ⸻
 
-🔧 ## Global Flags
+## Global Flags
 
 | **Flag**           | **Description**                             |
 |--------------------|---------------------------------------------|
@@ -18,7 +18,7 @@ With smart commands, layered sub-flags, and a modular structure, Raptor streamli
 
 ⸻
 
-🧪 ## Commands
+## Commands
 
 | **Command**       | **Flags**                                                                 | **Description**                                                                 |
 |-------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------|
