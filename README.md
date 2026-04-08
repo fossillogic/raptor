@@ -1,8 +1,8 @@
 <p align="center">
-    <img src=".github/logo.png" alt="Raptor Tool Logo" width="620"/>
+    <img src=".github/logo.png" alt="Stego Tool Logo" width="620"/>
 </p>
 
-### 🦖 A Command-Line Network Hunter by **Fossil Logic**
+### A Command-Line Network Hunter by **Fossil Logic**
 
 Raptor Tool is a high-performance **network analysis and operations utility** built for engineers, security professionals, and advanced users. It unifies network diagnostics, traffic inspection, reconnaissance, and testing into a single, aggressive and precise command-line interface.
 
@@ -85,7 +85,7 @@ Ensure you have the following installed before starting:
     raptor --help
     ```
 
-# 🦖 Raptor Tool — Network Command Palette
+# Raptor Tool — Network Command Palette
 
 ## Command Palette
 
