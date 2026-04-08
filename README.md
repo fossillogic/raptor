@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/logo.png" alt="Stego Tool Logo" width="620"/>
+    <img src=".github/logo.png" alt="Raptor Tool Logo" width="620"/>
 </p>
 
 ### 🦖 A Command-Line Network Hunter by **Fossil Logic**
