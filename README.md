@@ -1,6 +1,6 @@
 # **Raptor**
 
-This project template serves as a starting point for creating classic executable projects that can be published as applications on Docker or even via GitHub. It includes the necessary setup, compilation, installation, and running instructions to get your project up and running quickly.
+Raptor is the ultimate grammar testing gadget. It consolidates essential grammar checks, suggestions, intentions and more into a single command-line interface—eliminating tool fragmentation.
 
 ## **Prerequisites**
 
